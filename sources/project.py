@@ -1,2 +1,2 @@
 print("hello")
-print("fick you")
+print("world")
