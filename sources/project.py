@@ -1,6 +1,5 @@
 print("hello")
 print("world")
-print("chao")
 print("cac")
 print("ban")
 print("day")
